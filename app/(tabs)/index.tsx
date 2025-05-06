@@ -12,7 +12,7 @@ export default function HomeScreen() {
       <SafeAreaView style={styles.safeArea}>
         <View style={styles.container}>
           <Zap size={80} color="#FFFFFF" strokeWidth={1.5} />
-          <Text style={styles.title}>Welcome to Your Expo App!</Text>
+          <Text style={styles.title}>BIENVENIDO A TU PROYECTO PERROS!</Text>
           <Text style={styles.subtitle}>Built with Bolt & Expo Router</Text>
         </View>
       </SafeAreaView>
